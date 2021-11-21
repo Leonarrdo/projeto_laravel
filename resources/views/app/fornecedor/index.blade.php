@@ -1,6 +1,10 @@
 <h3>fornecedor</h3>
 
-{{-- Comentário --}}
 
+@php 
 
-@php //comentario @endphp
+var_dump($fornecedores);
+
+@endphp
+<br>
+@dd($fornecedores);
